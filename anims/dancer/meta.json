@@ -1,0 +1,33 @@
+{
+  "title": "Woman Dancing (1887)",
+  "fps": 5,
+  "frames": 12,
+  "sizes": [
+    {
+      "width": 40,
+      "height": 29
+    },
+    {
+      "width": 64,
+      "height": 46
+    },
+    {
+      "width": 100,
+      "height": 73
+    }
+  ],
+  "credit": "Eadweard Muybridge, via Wikimedia Commons",
+  "license": "Public domain",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Woman_in_dress_dancing_(1887).gif",
+  "convert": {
+    "widths": [
+      40,
+      64,
+      100
+    ],
+    "invert": false,
+    "gamma": 2.6,
+    "start": 0,
+    "maxFrames": 120
+  }
+}

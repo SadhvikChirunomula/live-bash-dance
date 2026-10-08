@@ -1,0 +1,250 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>live-bash-dance</title>
+<meta name="description" content="Lifelike terminal animations drawn only with letters. One curl command, no install.">
+<style>
+  :root {
+    --bg: #0d0f0e;
+    --panel: #151917;
+    --line: #26302b;
+    --text: #d8e6dc;
+    --muted: #7d8f84;
+    --accent: #7ee2a8;
+    --mono: ui-monospace, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font: 16px/1.5 system-ui, -apple-system, "Segoe UI", sans-serif;
+  }
+  main { max-width: 960px; margin: 0 auto; padding: 48px 16px 64px; }
+  h1 { font-family: var(--mono); font-size: clamp(28px, 6vw, 44px); margin: 0 0 8px; letter-spacing: -0.02em; }
+  h1 span { color: var(--accent); }
+  .lede { color: var(--muted); margin: 0 0 32px; max-width: 60ch; }
+  .card {
+    background: var(--panel);
+    border: 1px solid var(--line);
+    border-radius: 10px;
+    overflow: hidden;
+    margin-bottom: 32px;
+  }
+  .screen { padding: 16px; background: #000; }
+  .screen pre {
+    margin: 0;
+    font-family: var(--mono);
+    line-height: 1.2;           /* 0.6em-wide glyphs x 1.2em rows ~ a 1:2 terminal cell */
+    color: var(--text);
+    white-space: pre;
+    overflow: hidden;
+  }
+  .meta { padding: 16px; display: grid; gap: 12px; }
+  .meta h2 { margin: 0; font-size: 18px; }
+  .credit { color: var(--muted); font-size: 14px; margin: 0; }
+  .credit a { color: var(--muted); }
+  .cmd {
+    display: flex;
+    align-items: stretch;
+    border: 1px solid var(--line);
+    border-radius: 6px;
+    overflow: hidden;
+    font-family: var(--mono);
+    font-size: 14px;
+  }
+  .cmd code { flex: 1; padding: 10px 12px; overflow-x: auto; white-space: nowrap; }
+  .cmd code::before { content: "$ "; color: var(--accent); }
+  .cmd button {
+    border: 0;
+    border-left: 1px solid var(--line);
+    background: transparent;
+    color: var(--text);
+    font: inherit;
+    padding: 0 14px;
+    cursor: pointer;
+  }
+  .cmd button:hover { background: var(--line); }
+  .how { color: var(--muted); font-size: 14px; }
+  .how code { font-family: var(--mono); color: var(--text); }
+  .empty { color: var(--muted); }
+  footer { color: var(--muted); font-size: 14px; margin-top: 48px; }
+  footer a { color: var(--accent); }
+  .controls { display: flex; flex-wrap: wrap; gap: 8px; margin: 0 0 24px; }
+  .chip {
+    border: 1px solid var(--line); background: var(--panel); color: var(--text);
+    font: 14px var(--mono); padding: 6px 12px; border-radius: 999px; cursor: pointer;
+  }
+  .chip[aria-pressed="true"] { border-color: var(--accent); color: var(--accent); }
+  .cmds { display: grid; gap: 8px; }
+  .label { font-size: 12px; color: var(--muted); text-transform: uppercase; letter-spacing: 0.06em; margin: 4px 0 -2px; }
+  .extras { display: grid; gap: 8px; margin: 0 0 32px; }
+</style>
+</head>
+<body>
+<main>
+  <h1>live-bash-<span>dance</span></h1>
+  <p class="lede">Real footage, redrawn using only the letters A&ndash;Z. Paste one command into any terminal. Nothing to install, nothing saved to disk. It sizes itself to fit your terminal.</p>
+
+  <div class="controls" role="group" aria-label="Display options">
+    <button class="chip" id="color-btn" type="button" aria-pressed="false">colour</button>
+    <button class="chip" id="os-sh" type="button" aria-pressed="true">macOS / Linux</button>
+    <button class="chip" id="os-ps" type="button" aria-pressed="false">Windows PowerShell</button>
+  </div>
+
+  <div class="extras">
+    <p class="label">Surprise me / play them all / list</p>
+    <div class="cmd"><code data-cmd="random"></code><button type="button">Copy</button></div>
+    <div class="cmd"><code data-cmd="all"></code><button type="button">Copy</button></div>
+    <div class="cmd"><code data-cmd="list"></code><button type="button">Copy</button></div>
+  </div>
+
+  <div id="gallery"><p class="empty">Loading&hellip;</p></div>
+
+  <p class="how">
+    Bash options: <code>| bash -s -- --color --loops 3 --fps 15 --width 64</code>. PowerShell options: <code>-Color -Loops 3 -Fps 15 -Width 64</code>.
+    Want to check before you run it? Open the URL in a browser and read it. It only prints letters.
+  </p>
+  <footer>Open source &middot; MIT &middot; <a id="repo" href="https://github.com/">add your own animation</a></footer>
+</main>
+
+<script>
+  const base = new URL(".", location.href).href;
+  const gallery = document.getElementById("gallery");
+  const state = { color: false, os: "sh" };
+  try { Object.assign(state, JSON.parse(localStorage.getItem("lbd") || "{}")); } catch {}
+  const save = () => { try { localStorage.setItem("lbd", JSON.stringify(state)); } catch {} };
+
+  const m = location.hostname.match(/^([^.]+)\.github\.io$/);
+  if (m) {
+    const repo = location.pathname.split("/").filter(Boolean)[0] || `${m[1]}.github.io`;
+    document.getElementById("repo").href = `https://github.com/${m[1]}/${repo}`;
+  }
+
+  function command(name) {
+    if (name === "list") return state.os === "ps" ? `irm ${base}list` : `curl -sL ${base}list`;
+    if (state.os === "ps") {
+      return state.color
+        ? `& ([scriptblock]::Create((irm ${base}${name}.ps1))) -Color`
+        : `irm ${base}${name}.ps1 | iex`;
+    }
+    return `curl -sL ${base}${name} | bash${state.color ? " -s -- --color" : ""}`;
+  }
+
+  function wireCopy(cmdEl) {
+    const btn = cmdEl.querySelector("button");
+    btn.addEventListener("click", async () => {
+      try { await navigator.clipboard.writeText(cmdEl.querySelector("code").textContent); btn.textContent = "Copied"; }
+      catch { btn.textContent = "Select it"; }
+      setTimeout(() => (btn.textContent = "Copy"), 1500);
+    });
+  }
+
+  function refreshCommands() {
+    document.querySelectorAll("code[data-cmd]").forEach((c) => (c.textContent = command(c.dataset.cmd)));
+    document.getElementById("color-btn").setAttribute("aria-pressed", String(state.color));
+    document.getElementById("os-sh").setAttribute("aria-pressed", String(state.os === "sh"));
+    document.getElementById("os-ps").setAttribute("aria-pressed", String(state.os === "ps"));
+  }
+  document.getElementById("color-btn").onclick = () => { state.color = !state.color; save(); refreshCommands(); redrawAll(); };
+  document.getElementById("os-sh").onclick = () => { state.os = "sh"; save(); refreshCommands(); };
+  document.getElementById("os-ps").onclick = () => { state.os = "ps"; save(); refreshCommands(); };
+  document.querySelectorAll(".extras .cmd").forEach(wireCopy);
+
+  // xterm-256 index -> CSS colour (same palette the terminal players use).
+  const CUBE = [0, 95, 135, 175, 215, 255];
+  function xterm(i) {
+    if (i >= 232) { const v = 8 + (i - 232) * 10; return `rgb(${v},${v},${v})`; }
+    const c = i - 16;
+    return `rgb(${CUBE[Math.floor(c / 36)]},${CUBE[Math.floor(c / 6) % 6]},${CUBE[c % 6]})`;
+  }
+  const esc = (ch) => (ch === "&" ? "&amp;" : ch === "<" ? "&lt;" : ch);
+  function colorHtml(text, hex, width) {
+    const rows = text.split("\n");
+    let html = "", open = -1;
+    rows.forEach((row, y) => {
+      for (let x = 0; x < row.length; x++) {
+        const ch = row[x];
+        if (ch !== " ") {
+          const c = parseInt(hex.substr((y * width + x) * 2, 2), 16);
+          if (c !== open) { if (open >= 0) html += "</span>"; html += `<span style="color:${xterm(c)}">`; open = c; }
+        }
+        html += esc(ch);
+      }
+      html += "\n";
+    });
+    return html + (open >= 0 ? "</span>" : "");
+  }
+
+  const players = [];
+  function redrawAll() { players.forEach((p) => p.draw()); }
+
+  function fit(pre, cols) {
+    const width = pre.parentElement.clientWidth - 32;
+    pre.style.fontSize = `${Math.min(12, width / (cols * 0.6))}px`;
+  }
+
+  function card(a, data) {
+    const el = document.createElement("section");
+    el.className = "card";
+    el.id = a.name;
+    el.innerHTML = `
+      <div class="screen"><pre></pre></div>
+      <div class="meta">
+        <h2></h2>
+        <p class="credit"></p>
+        <div class="cmd"><code data-cmd="${a.name}"></code><button type="button">Copy</button></div>
+      </div>`;
+    el.querySelector("h2").textContent = a.title;
+    const credit = el.querySelector(".credit");
+    credit.textContent = [a.credit, a.license].filter(Boolean).join(" · ");
+    if (a.sourceUrl) {
+      const link = document.createElement("a");
+      link.href = a.sourceUrl;
+      link.textContent = "source";
+      credit.append(credit.textContent ? " · " : "", link);
+    }
+    wireCopy(el.querySelector(".cmd"));
+
+    const pre = el.querySelector("pre");
+    pre.setAttribute("aria-label", `${a.title} animation`);
+    const htmlCache = [];
+    const p = {
+      i: 0,
+      draw() {
+        if (state.color) pre.innerHTML = htmlCache[p.i] ??= colorHtml(data.plain[p.i], data.color[p.i], data.width);
+        else pre.textContent = data.plain[p.i];
+      },
+    };
+    players.push(p);
+    p.draw();
+    if (!matchMedia("(prefers-reduced-motion: reduce)").matches && data.plain.length > 1) {
+      setInterval(() => { p.i = (p.i + 1) % data.plain.length; p.draw(); }, 1000 / a.fps);
+    }
+    addEventListener("resize", () => fit(pre, data.width));
+    return el;
+  }
+
+  refreshCommands();
+  (async () => {
+    try {
+      const anims = await (await fetch("anims.json")).json();
+      gallery.textContent = "";
+      if (!anims.length) gallery.innerHTML = '<p class="empty">No animations yet.</p>';
+      for (const a of anims) {
+        const data = await (await fetch(`data/${a.name}.json`)).json();
+        const el = card(a, data);
+        gallery.append(el);
+        fit(el.querySelector("pre"), data.width);
+      }
+      refreshCommands();
+    } catch (err) {
+      gallery.innerHTML = '<p class="empty">Could not load animations.</p>';
+      console.error(err);
+    }
+  })();
+</script>
+</body>
+</html>

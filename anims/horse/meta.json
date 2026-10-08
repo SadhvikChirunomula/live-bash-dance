@@ -1,0 +1,33 @@
+{
+  "title": "The Horse in Motion (1878)",
+  "fps": 10,
+  "frames": 15,
+  "sizes": [
+    {
+      "width": 40,
+      "height": 13
+    },
+    {
+      "width": 64,
+      "height": 21
+    },
+    {
+      "width": 100,
+      "height": 33
+    }
+  ],
+  "credit": "Eadweard Muybridge, via Wikimedia Commons",
+  "license": "Public domain",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Muybridge_race_horse_animated.gif",
+  "convert": {
+    "widths": [
+      40,
+      64,
+      100
+    ],
+    "invert": true,
+    "gamma": 1.8,
+    "start": 0,
+    "maxFrames": 120
+  }
+}

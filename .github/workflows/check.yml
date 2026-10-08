@@ -1,0 +1,21 @@
+name: Check
+
+# Runs on every pull request: validates anims/*, builds the site, shellchecks the
+# bash players and smoke-tests the bash and PowerShell players.
+on:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      # ubuntu-latest ships shellcheck and pwsh, so check.mjs runs every test.
+      - run: node tools/check.mjs

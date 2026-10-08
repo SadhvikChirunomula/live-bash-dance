@@ -1,0 +1,33 @@
+{
+  "title": "Waltz (1887)",
+  "fps": 10,
+  "frames": 20,
+  "sizes": [
+    {
+      "width": 40,
+      "height": 31
+    },
+    {
+      "width": 64,
+      "height": 49
+    },
+    {
+      "width": 100,
+      "height": 77
+    }
+  ],
+  "credit": "Eadweard Muybridge, via Wikimedia Commons",
+  "license": "Public domain",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Man_and_woman_dancing_a_waltz_(1887).gif",
+  "convert": {
+    "widths": [
+      40,
+      64,
+      100
+    ],
+    "invert": true,
+    "gamma": 3,
+    "start": 0,
+    "maxFrames": 120
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "live-bash-dance",
+  "version": "0.1.0",
+  "description": "Lifelike terminal animations drawn only with letters. curl | bash, hosted free on GitHub Pages.",
+  "license": "MIT",
+  "type": "module",
+  "private": true,
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "convert": "node tools/convert.mjs",
+    "build": "node tools/build.mjs",
+    "serve": "node tools/build.mjs && python3 -m http.server -d site 8000",
+    "check": "node tools/check.mjs"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "title": "Buffalo Galloping",
+  "fps": 15,
+  "frames": 14,
+  "sizes": [
+    {
+      "width": 40,
+      "height": 12
+    },
+    {
+      "width": 64,
+      "height": 20
+    },
+    {
+      "width": 100,
+      "height": 31
+    }
+  ],
+  "credit": "Eadweard Muybridge, via Wikimedia Commons",
+  "license": "Public domain",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Muybridge_Buffalo_galloping.gif",
+  "convert": {
+    "widths": [
+      40,
+      64,
+      100
+    ],
+    "invert": true,
+    "gamma": 2.8,
+    "start": 0,
+    "maxFrames": 120
+  }
+}

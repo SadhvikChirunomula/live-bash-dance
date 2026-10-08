@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(node tools/convert.mjs:*)",
+      "Bash(node tools/build.mjs:*)",
+      "Bash(node tools/check.mjs:*)",
+      "Bash(ffprobe:*)",
+      "Bash(shellcheck:*)",
+      "Bash(curl -sL localhost:8000/*)",
+      "Bash(curl -s localhost:8000/*)"
+    ]
+  }
+}

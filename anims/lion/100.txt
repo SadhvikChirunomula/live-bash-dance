@@ -1,0 +1,526 @@
+suuunoaaounttjjjjjjffcvvxxxxxxvxzzxxxzsti                                                           
+ooonooeeeykjfvvxcvvxxzzzsssuuoonnnunnnnjii                                                          
+uononoaeeehffxsszssuuuuuuusuuoonnnnnnoaflii                                                         
+snuunoaaaeyffxzzsssuunnunnuunaaoooaoooacliii                                                        
+zsuunoooaaeftvxzzssuuuunnsznaeeeeyeeaoocliiiiiii                    iiiiiiiiiiiiiilllll             
+zsunooaeeeyctxxzzzssuuuuunaonayyyhkkyyyfliiiiiiii        iiiiiiiiiiilltcxuaayeaaeykpazoi           i
+xsunnoeeeeyctxxzzuuuunonoeyyeeyhhhhpkkdvlliiiiilli   i iiiiiiiiljvzuoekqpdqqqggbdonanzzc  ii       i
+vzsunaaeeeyztvzssnooaeyykhdpdppkppdhhhhztlliiiiiiiiiiircsayykddkonvvnyqqbbgqkeaahozznssztiiiii     i
+vsunoaekykhstvsuunonaeyyhddpqppppdhhpqbutrrrrttjjjjjczdWNWWmWbzcczozuhmmbpgbhenoheyoczzvtrriii     i
+cxzunoaeyykzrvzuuoayyekkhpqbbqppdphhkpddhdpdhyyyeauxznqmNNggwdadhneaohbgdkdqgexxzuzxxsjttffjl       
+cvsuuuooeyhsrxzuuoaeeykhpdqbgbqqqqpddhhhdhenuszccxxvvspNNNmNWdgwwdqddgNWNgbqbaxxvxzfjffttrtfriiii  i
+cvxzsunnaeknrvzuuoaaakhdpdqbbqpqppdphyeohyossszvvzzzszupwNNNWwmmgbmWWgWgggwbdkououuxvfffrrfjllliii i
+cvxsunoaayhuivzssnoeykkkhppqpqqqqdpqqhhhddhkyansxxzzzzsegMWWNNWMNmNWNMMNwmNbghhaaezxuxjftjjfrlrrii i
+cvxssunaykhnixzsuoaekhhhdpbbbgggggwwbbppqqdhyoaaousunnoypWMMMWWmbasybNMMWMWggkhouyuvxfrxxxvvfjtli  i
+fcvzsuuoedqaiczsuaeekkkpqqqgwwwggwmmbgggwmwpdkaaooekyyyhbNWWMWmdyekdkyNMMWMWNNghoenusjljiilxxfi     
+ffvzssunakpalcxsoaeehddbwmmmmwgggwwwgmNmmmwgbbpdkyyyaaaedbwNmNgounazxemMMMMNwNWgyyonctri   ii      i
+jfcvzzsnaehoivzsnooayhhpbwwmmwggggwwgwwwwwwmNmgbbqhhhdeaqqbbqbdxxznnseWMMMWwgggenyucjli            i
+jffcxxzuoehalcxzuoaeakhpqggwmNwgwgwgbggwwwwwwwgbbpdqbqddbbqqgwgauzuadNMMMMNqgNhrlli            iii i
+jjfvxzzsuoyalcxzunoaeeypbbwwwwwwgwwgbbggwwwmwwwwgbpqgggggbqqgMbyayeqMMMwWWWNMdi              iiiiiii
+jjfcxzzsuoearczunnoaykhqgwmwwwNNmmmmmmwwwwwhqggwwwgqdpbNNMMNMMbaueonNMMWNNwmwt           i   iiiii i
+jjcvxzsnaykyjcxuonayyhhqbbgwwwwwmmmmmNmwwmurllllli   itpNMMmNWqaokpeqmWmNgbui            iiii iiii i
+jfcxzsuoeydyjczunoayykhdppqbgggmmwwmmmmwbnftrlliiii   icznbwqbbyekpqqwhcfli             iiiiiiiii  i
+fcxsunayhhphjvsunuoekkdpddpbbwmwwggwgggqscfjtrrlliiiiiiiiilxbwNhhdbbgwl                 iiiiii    il
+cvzunooydpqdfvsunnoaeeeeyyedppqqqpdpqqqdaaeeeeannoykeaaossszekdqypbphyvxzzvvxzsuooooaeonnoonosvvxzzz
+cvxsuuoaydpdrcvxzzznoaoaeaeddhdppdpqppqppdqgggwNmmWmwgwwmmpgbbkhkdgphnaeonnussonnauneeansssnnnuxxvcx
+ccvxsnnoayyetfccxxxsoaaaeeayhhhdqqpddqqpppbbpqbbdpwgwqduudggbphkpkkknaayanzszsuuxzsnszvvccffccxxcccc
+fccvzsuunoontjccvxzsuuunuoaekhkdqqpdpppppdpqqqbqpqbbggwghdbqbhkpbbhyazvznassuuasxvcvzsxsusvvvvfjjjff
+jfccvxzuunoarjcvvxzzuusuunaaekhkkhhyhqqbqppppqbqbpqkhhpgdhqggpbpkehhexzxfjrrfxzszszzszvvcffffjccjttt
+jfcccvxxsuoorfcccvzzzsssunaeyhhdkkkhddpbqpdppqbqqdhkehdhyaeyypqkpbexbbuunzxxsnuszsvfvccffffvccjfjjtt
+jfffcvvzzsunrfcfccvvxvxzzsoaoeykyeeeyyhhhhppppdhdyyyeayyeaenaykeanxsszsnauvxczzssozzccxcjjfcfffffcjc
+@@FRAME@@
+zcjrii                                              i                                               
+xfjrii                                                                                              
+zcjrlii                                             i                                               
+xfjrliii                                                                                            
+vftrliii                                                                                            
+cjjrliii                                                          ifvzuzfttrli  ltlli               
+vjrllii                                                 iillllruoeeyyeaykqqwgbbggwbppi              
+uctlii                                              rfzneeaaoypyeaeeaeekdddbbqpphhddde              
+ascriii                     iillllrrttjjfjjjjjjjjfcvaaaanooouakyyeaannnonoaaeyyyhyehhhel         iii
+cjtrlli               iltfcccfjrrrtrtjjjjjjttttjjjtjzooeyyannenzuzxzssssunuunoonkhyoyyasci       lii
+vjrlii            rtjcjtrlllrrrrrrtrrrrrrrtrtttttjffvuaaoousunzxxxxxsnonuunoennnoounoxcvoel      lii
+vjtliii        jakycjctrrrttrrttjfvccjrrrjccfffjtjfcvsekyanuszszxxzsuuusnuoaaosxzuusxxxzuyf     ilii
+vffriii      fwWwhncvzxfjtttrtrtfzuuzxxcfffcfccfffccvvsaeoonuusszssszzususnsunusszzsxvsxnyvfri  ilil
+vjjriii   ijbMMWoybdnzunscfjttttjvunszzsxvffcfccvxxxzsuayyaaaoonuunuxzzuuuoszsusuxvsvsonooxzsci  lil
+vjtriii ijbMMyt rgpqknzvfczszcfjjjfsuunonsuzszxxxvxzneoeeaooaaoonuzssunnunanuuousxvvfukaneyozr   lil
+vjtlliicbMNul   lpkhekkeucjxehnxftrtsoooyyyyeoonusssoeoaaaeaaaosxxvccxoooooonoaaouzxfi rehet     ill
+xftrjoWMqfi     xNgpdyykdysccxnaoxjizbhkeehhhhyeaddeoooaooaoaosvccjttjxnonnouoeensxci            ill
+zcnmMkfi        kdayhhyeayeozftrtjrr  rzkkhdkhheywgyneeenuszzxvftttjjczonnnunutlii               ill
+hNbzl     i   regqyykddhyszfjtrliiil      ilrrlllllrcayouuuuzzxjrrtjfxnnuunov                l   ill
+pztliii iirtvhbkyeoehkyykazfjjllliii                   tcxxuoyofjffjjcvzunnat                    iil
+zfjtriilgNbpenoosxsnaeyeffesccjrlli                    ifcxnoezoxunzuzcvzuzzzvjl                 iil
+zcjrllisweoeeyeoouvjri    yazvvxci                      lrrtfc nnuvvxzxxxxxxxxvccr               itt
+zcjrrlrNbpqkcri           ynsxvcl                       iilljl trftftlltrtjcxvjftjr              ljf
+zvvctluMNgz              reavjcr                    tkeovrlrxcjjtrljvxzzcrllrjauvjjjtiillrrrlllllxcj
+zcvvcfgwpziiiiiiiiiiiiiilzcfjrliiiiiiillllllllllllrrvkkkavrtvuyanuuszvzsunounuonsvsuaaehkhdhkedggpha
+MMMMMMMhhwWMMMMMMWmwqdhhdesvjllczaeehhpykhkyhdqheaaeonsunesffjzcfxzsuxsusuuuuoynnnuonnaayyonzsoyaede
+MMMNWNmggaowMWwwdhhykyyekkyyscftliilrrtjvnuussuuszzzzuuonozvzzzvcczsnzzszszsunnzzuunuoousunnusnoauas
+wgbqgbbbbqqddbhyneeeanssueuxukkeuxcvsuxxvjfcccffffffcvvfcffcfjtrtjfttttjtttttjfccjcffvvsszxssssnoayo
+bbbpddqhhppqdkyykheouuzvvvnvfcjfrjjrtjtjfjjrtttrtrltrtttlrtjtrttlllrtlllllrlllrftrttfftrczzssnneekys
+bqphyyyzvussszuzzcvvxccvsvxftjjtfffcccfjlfttfftttrtjfrlrrrrrllirjtrtjrrrfjtrrtffcfcvcvxxfffcxvznaees
+@@FRAME@@
+rlii                                                                                                
+rlii                                                                                                
+liii                                                                                                
+liii                                                                                                
+liii                                                                 lltjtlii         i             
+lli                                                             itoeehhyyykhkhdhyakpphkf            
+lli                                                    iljoykkhyydqqqpdppdhhdhyyhpphkhppr           
+rlii                            iiiiiiiiiilllllllllllrspppdpqqphhddpqhkhddhhkyykhdhdkkhdpj          
+trrii                    irjcsonxcfvzfffxxxxvvvcvvvxvvzahhhpbphayyaehayhhqphkkyykkyhhyaehdc    iii  
+rlii                irjvzctrrtttjjjfftrrrttjjtrrtttjfjfukddbbqdkyeaoeheyhqqhkkyykyaeanoauseyt iiiiil
+lli              icyyzvscjjjjjjjffczuxctrrrtjjjjjjtjfffcuqbbbbqdykhkkkkhpqbdhkykkosuanszuxsau iiiill
+lii            iugbdazvvvcccfcvzvftxeyozvfjtjcvcjjjjjccvxuydpqqpqpddpdhdqqqhhhkeenusnuuzzzzeejliilll
+liii          jgmbehqdeaeeanvffffjtvayeeeescjjjjjcvvvxxzssahqbqqqbddhhpqdpqpppheeaauuzszuononsavirrt
+liiii       lkNNbvfgmwbozxxxuuzftjjjvueeaeenvccccccxxzsnehhdppppdhddpdhhpbqqpppyyyeunszjzpkkddbxillr
+lliiiiii  isNWdl   cwwwwqeuseqhoxfjjjxcxayyeanuuuuunnnnnahpqqqbqppphyaaounydqddhkhkoaozttaypbyl illt
+rlii    ixwNdr     cmmgbgqhuvuhgpucjjczcnkqbbqqqpddppdhhdpdqbqggqppyoaansznhbpkkyekyenzl  ltl  iiilj
+liiiirvkwmnl       rmwwwbbgknussahextjzxygggggbqqqbqbbqqdyyyonhddhehyuzzsnnhqpdhkeyzri         iiilt
+rfskwkucl        icdgbqbbhenzxcttfccri   ijzakdhkeeykdpqddhhkkkydbqpbkscxzukqbpddhc            iiltc
+hzjli i     jehhddhhdpdpqhncjjtrrfff                   zyhpbggyfnooyqbdnnoeeeddqpe        i    litno
+lliiiiii   iqdoaaaaeeekpbhavffttttvj                   tvcxoeyillilliiphoaokkhdbqyi            iilrt
+rliiiiiii  zqahdheucjttrtyosssvvzfi                    irlrtjl        epqqphhhhhasxti         iiliit
+llliiiiii iyghei        veouzzant                       lillj         ijljxshqhhyosxxvt       illiit
+rllliiiiiirmqht        chezczaj                  i     itlrvl    iiii        irfuddhzjcttriirlirlllt
+rrrrliiiivgWgdl      luzfjvxc                    hNWNmgytrfsouszkwqqgqovzuuoeanzvvvdbhuvvcxzxnaexcjf
+aayyszssoWNNwqfjjjfffshnvtrrlrjjjfccfccccccfjfccxqbbbwWmctcfpgWWNmbwNNNmgbwbbbpyydkdbqgqoccccsbWMMMM
+hpbbwggbwmwwhkhhyhedyyeyhoftrilrjjffsoasonaaaaoneyoaekdezzxzctjzhwpqwmgbqbbbbbphhpbbbbggNNWWWWNMMMMM
+ykyhpdphkdheuoaadeusnyosnqwbkzffcvcffczzszzxsuszuunssuznaaxvzzsoszsuenszxzssokoasxeayaaabbbbmWmmmWMM
+aaanayykyeoaohkeusuvvxuzfcfcjjctjcfffjfrrrlllrlrrrtjrrtfftttrrjcfcjtfttjtjjcuvtjxnscfxeydhkhqmWmNWMM
+noauznzszxzxzcfvvfcczxxvtjjtjfjccvfcljfrtfrrrlljfjirrrlrrllljfjtjvjjjxvcttcuuuvzxxzuuuozsasuhgNMWMMM
+akynnnusszxvxxvjzxtjfjtrtttttrtrlrllllllllrcvftjttttrrlrllliitjrrjjjcjrcfvvjttcfsneyouusnnszcshwmmMM
+@@FRAME@@
+                                            i   iiiiiiiiiiiiiiiiiiiiiiiilllllllliiiiilllllllrrrrrtfj
+                                            iiiiiiiiiiiiiiiiiiilillllllllllllllllllllllllrrrrrrrttjj
+                                       iiiiiliiiiiiillllllllllllllllllllllllllllllrllrrrrrtttttttjcf
+                                iiiiiiiiiiiililllllllllllllllllrrrrrrllllllllllrrrtrrttrttttttjjjfff
+                           iiiiiiiiiiiiiiillrllllllllllllrrrrrrrrrtttjfvvvxvxxvcfffcvxxtttttttjjjjff
+                        iiiiiiiiiiiiiillllllrlllllllllllrrrrrtjjfxoeyykkhkkykkyyyyyykhdytttjjjtjjjff
+               iii  iiiiiiiiiiiiiilllllllllrrrrrllllrrrtcxnonkdhhdppdhhhkeehhkykhhhhhhdhevtttjjtjjjf
+ i           iiiiiiiiiiiiilrrjcxxvccvxxxvvvvcvvvcvvxvxxuakhaahphhdhoneeyeeeekkkhpppqphhkhhztjjttjjff
+iiiiiiiiiiiiiiiiiiiiilrtjffjjjjfjffffffffccvvvvxvxxxxxxxsehhhhdddpkeayhyeydddhhhddpphddkhhhnctttjjjj
+iiiiiiiiiiiiiiiiiiljxxcfcfjfcccccvvxvzvccfccvvcccvvvxzzzznkpqqqhhphdhkhhhpqqqqpqqphyykyyyaakkcfffjjj
+iiiiiiiiiiiiiiiiivkkauxfcccvvcvcvxszznnszxvccvxxzzzvcvxxzzadbbbbqbqqbbqqqbgggbbbbqdyeeeeeaaakcjfffjj
+iiiiiiiiiiiiiiijhphedbyssunusxvccfcznannnuuuzxvxxzzzzzzunuuehbgggbbbbbbbbggwgbbbgbqhyanaeeaaynxcccfj
+iiiiiiiiiiiiilymNgxcbgbhonsxxszxvvxxseyhyeykeuzzzzxzsunaeeyhdbwmwmmNwwwggwmNmmmmmgbdyonaayhkkeeavvff
+iiiiiiiiiiilsmNbtiiiemgmwkauyhknzzszxznneyykhyonnnoonooaekpqbgwmNWWWNwggbbbmWMWWNwgpdkyyaypdpqhsvcff
+iliiiiiiiivwWbfi iiizNWWMWbeopmqanszzzsnnsyqgbwbpppdpdhppppdqgwmNWMMmbbgbppbNWNNNmgbggpdoupqpyzvxvcc
+iliiiiilfpNbfi iiiiiiicMWMNdaakgbdyosxsnuohdwmNWNNNNWWmwggbgwwbgwmWNmwqddhdpbmWWmwwmmbaxjtffffcxvcfc
+llliitugmet  iiiiiiiiteMwbheausskgpazvfrjyNWMMMWNNWWWWNNmmmwbqdppbmWWWwqpdpqbwNNNNWNucjrrtffjfvxcvcc
+tfvobwoti  iiiiiifnkNMMMmhnsvccvnhdsjllllllfueqwwmWmbhnymmmwmmNWNbwwbwmWWNmmwwmWNNmujfjrrtcfcxunxxxv
+onsfriiiiiiiiiiilbMNNMMMmkuzxcvzzeulllllllllliiillliiiilaNgmMWWmuzxsxfxNNwbbgwggexfttfjttjfcxaeyuvuz
+iliiiiiiiiiiiiiiiyMNWMMNbkehnznssfilllllllllrlllllllllllrsyhqbmprrrrrrcmNmgbqbbggcrtttjttjfccvzzzcxc
+lrllllllliiiiiiiirgMmmmpyyaymbzlillllrrrrrrttrrrrrrrrrrrllfunakptrrrrrrfkwNmgbgwwyttjjjjjjfvccscccxv
+lrllllllllliiiiiiivayeoekqNeflilllrrrrtrrrrtrrrrrrrrrtrrrvuheedbcrttttjjjfchmNNNmgyfjjjjjfvxxcxvvvsz
+rrrllrlllllllllllluhazyypzlillllrrrtrtrrrrrtvcfjttttrrtznhqwNmMbjtttjjffjjjtvhNWWNwqvjjjffzzzccvxzsn
+tjjjftrrrrrllllllllkbevvtlllrrrrrrtttttttttfMMMMMMMNNmmWqbmMMmNWWwdpqbmNNwbbpnyMWWNwgnnookbdynoehaye
+khyykyaoonnunoaeaoneMMhsvjfueeeyyyyeeeeykkhpMMMMMMMMMMMwNmWMWNNMMMMWWWNNNWWNWWWWWWNNqphdpqbwmmNWWWWN
+MMMMMMMMMMMMMMMMMMWmMMMMhszznnohmMWMMMMMMMMMMMMMMMMMWWMMmhwNNWNMMWmNWMWWMMWNWMWWWNmmmqdhhdhhhgWMWNmm
+MMMMMMMMMMMMWNmgNWdaqmMwNmyhgggmdqqdqhkhqbpqpbpydkqbyeaaokbhhykdkkhyeekhdyyyhbpbbgbwmggwmwwNNNwmmmww
+MMMMMMMMwwmNbbbWwwwyaauoyydgwppnkdoodyyanuhhyzonoaykannaynsydoonyykaoeppdekhddhhqwbqgbgmmwNNNmNNNmNW
+MMMMMWmmNqhMgyyeayeheooauossoununoanaygmbyhyhhyooeeoouzxsaaoyyayeokdhheauaydbwmwgbdbbppbbqgmmNNNNNwm
+MMMNNMWWNbeMgoonyqkuusoyeaoyhyakbgphkdqphpkhdpqqqmqpNNNghhbbbbadgwmgyauzsywpqqkkdphdppgbdhdmmbgWmwbm
+@@FRAME@@
+                                            i   iiiiiiiiiiiiiiiiiiiiiiiilllllllliiiiilllllllrrrrrtfj
+                                            iiiiiiiiiiiiiiiiiiilillllllllllllllllllllllllrrrrrrrttjj
+                                       iiiiiliiiiiiillllllllllllllllllllllllllllllrllrrrrrtttttttjcf
+                                iiiiiiiiiiiililllllllllllllllllrrrrrrllllllllllrrrtrrttrttttttjjjfff
+                           iiiiiiiiiiiiiiillrllllllllllllrrrrrrrrrtttjfvvvxvxxvcfffcvxxjttttttjjjjff
+                        iiiiiiiiiiiiiillllllrlllllllllllrrrrrtjjfxneyykkhkkykkyyyyyykhdytttjjjtjjjff
+               iii  iiiiiiiiiiiiiilllllllllrrrrrrlrlrrrtcxnonkdhhdppdhhhkeehhkykhhhhhhdhevtttjjtjjjf
+ i           iiiiiiiiiiiiilrrjcxvvccvxxxvvvvcvvvcvvxvxxuakhaahphhdhoneeyeeeekkkhpppqphhkhhztjjttjjff
+iiiiiiiiiiiiiiiiiiiiilrtjffjjjjfjffffffffccvvvvxvxxxxxxxsyhhhhdddpkeayhyeydddhhhddpphddkhhhnctttjjjj
+iiiiiiiiiiiiiiiiiiljxxcfcfjfcccccvvxvzvccfccvvcccvvvxzzzznkpqqqhhphdhkhhhpqqqqpqqphyykyyyaakkcfffjjj
+iiiiiiiiiiiiiiiiivkkauxfcccvvcvccxszznnszxvccvxxzzzvcvxxzzadbbbgqbqqbbqqqbgggbbbbqdyeeeeeaaakcjfffjj
+iiiiiiiiiiiiiiijhphedbyssunusxvccfcznannnuuuzxvxxzzzzzzunuuehbgggbbbbbbbbggwgbbbgbqhyanaeeaaynzcccfj
+iiiiiiiiiiiiilymNgxcbgbhansxxszxvvxxsyyhyeykeuzzzzxzsunaeeykdbwmwmmNwwwggwmNmmmmmgbdyonaakhkkeeavcff
+iiiiiiiiiiilsmNbtiiiemgmwkauyhknzzssxznneyykhyonnnoonooaekpqqgwmNWWWNwggbbbmWMWWNwgpdkyyaypdpqhsvcff
+iliiiiiiiivwWbfi iiizNWWMWbeopmqanszzzsnnuyqgbwqqppdphhppppdqgwmNWMMmbbgbppbNWNNNmgbggpdoupqpyzvxvcc
+iliiiiilfpNbfi iiiiiiicMWMNhaakgbdyosxsnuohdwNNWNNNNWWmwggbbwwbgwmWNmwqddhdpbmWWmwwmmbaxjtffffcxvcfc
+llliitugmet  iiiiiiiiteMwbheausskgpazvfrjyWWMMMWNNWWWWNNmmmwbqdppbmWWWwqpdpqbwNNNNWNucjrrtffjfvxcvcc
+tfvobwoti  iiiiiifnkNMMMmhnsvccvnhdsjllllllfueqwwmWmbhnymmmwmmNWNbwwbwmWWNmmwgmWNNmujfjrrtcfcxunxxxv
+onsfriiiiiiiiiiilbMNNMMMmkuzxfxzzeulllllllllliiillliiiilaNgmMWWmuzxsxfxNNwbbgwggexfttcjttjfcxaeyuvuz
+iliiiiiiiiiiiiiiiyMNWMMNbkehnznszfilllllllllrlllllllllllrsyhqbmprrrrrrcmNmgbqbbggcrtttjttjfccvzzxcxc
+lrllllllliiiiiiiirgMmmmpyyaymbzlillllrrrrrrttrrrrrrrrrrrllfunakptrrrrrrfkwNmgbgwwyttjjjjjjfvccscccxv
+lrllllllllliiiiiiivayeoekqNeflilllrrrrtrrrrtrrrrrrrrrtrrrvuheepbcrttttjjjjckmNNNmgyfjjjjjfvxxcxvvvsz
+rrrllrlllllllllllluhazyypzlillllrrrtrtrrrrrtvcfjttttrrtznhqwNmMbjtttjjffjjjtvhNWWNwqvjjjffzzzccvxzsn
+tjjjftrrrrrlrllllllkbevvtlllrrrrrrtttttttttfMMMMMMMNNmwWqbmMMmNWWwdpqbmmNwbbpnyMWWNwgnnookbdynoehaye
+khyykyaoonnunoaeaoneMMhsvjfueeeyyyyeeeeyhkhpMMMMMMMMMMMwNmWMWNNMMMMWWWNNNWWNWWWWWWNNqphdpqbwmmNWWWWN
+MMMMMMMMMMMMMMMMMMWmMMMMhszznnohmMWMMMMMMMMMMMMMMMMMWWMMmhwNNWNMMWmNWMWWMMWNWMWWWNmmmqdhhdhhhgWMWNmm
+MMMMMMMMMMMMWNmgNWdaqmMwNmyhgggmdqqdphkhqbpqpbpydkqbyaaaokbkhykdkkhyeykhdykyhbpbbgbwmggwmwwNNNwmmmww
+MMMMMMMMwwmNgbbWwgwyaauoyydgwpqnkdoodyyanuhhyzonoaykaonaynsydoonyykaoepppekhddhhqwbqgbgmwwNNNmNNNmNW
+MMMMMWwmWqhMgyyyayeheooauossoununoanaygmbyhyhhyooeeoauzxsaaoyyayeohdhheauaydbwmwgbdbbppbbpgmmNNNNNwm
+MMMNNMWWNbeMgoonyqkuusoyeaoyhyakbgphkhqphpkhdpqqqmqpWNNghhqbbbadgwmgyauzsywpqqkkdphdppgbdhdmmbgWmwbm
+@@FRAME@@
+cccvzvitrtttttttttttttrrrrrrrrrttjfr                                                                
+zsnonsrfffffffccfffffjffjjjjjjfcccxr                                                                
+snnoentcvvvxvvvvccccccvvccffcvcvvxsti                                                               
+neyhqktvcvxxxxxxxvxzxxxxvcccvvvvxzstii                                        iii  ii  iii          
+ookpgetxvxxzszxxxxxzxzszvvvvvxxxzsutliiiiiiiiiiiiiiiiiiiii        iiiiiiiiiiiiiiiiiiiiiiiiii        
+aehdqhtxxzzssszxxzzssssszxxxvxxzsuutliiiiiliiiiiiiiiiiiiiiiiiiiiiiiilrvsoonaonusoyeafsliiiiiii i    
+aekhqhjzxzssnuzxxzssuzzzzsszsszzunatliiiiilliiiiiiiiiiiiiiiiiiljxnkgWMMMMMMMMMMMMMMmbqziiiiiiiii    
+oyhpghjzzssuszzzzzsszzssusssunsssnojllliiiiiiiiiiiiiirvnyhhpgwgqbnuhMMMMMMMMMMMMNhdqhhhriiiiiiiiii  
+ehqbmqjusnnnuszxxzzzzzzsnnnnnnnunoatliiiiiiiiilrrrrtvgMMMMMMwuzubwyWMMMMMMMMMMMMWwbhqqhvrliiiiiiii  
+kdqgNqfssuusssszzzzzzzzzzuunnonnnnoszzunnehhkhddkozuyNMMWmwmpkmNmWWMMMMMMMMMWhkbmgbyhzjrtjtiiiiiii i
+pbgmWbfzssssssszzzzzzzzzssssnononnnnnnnonuzxxvcfffffxpNMWmNWbmMNNMMMMMMMMMMMgakuznsxztllrjfjiiiiii  
+qqgNWkjzuuunnuuusssuuussssuunnnoooonuuuuuxcccfjjfccvxshwNWWNwWMMMMMMMMMMMMMMmgbeyeynvvcjrtjliiiiii  
+gwmWWkfunooooonuunnnoonnnnnnnnnnnnnussszzzzzxvcfcxvvvseqNMWNMMMMMMMMMMMMMMMMMMMqNahbocvrrjjliiiiiiii
+ggwNWhfunaoonnnuunnuuuuuuunnoonnnnuunuszzzzxvzzzxvxzsnybWMMMWgbdyhMMMMMMMMMMMMMqmoohfunosvfrlrrr    
+pqbwmhjzuunnnnuuuunnuussssuuuununonnnnnnnuuzvxxzzsnooakbMMMMmyeydqdwMMMMMMMMMMMNNbholcnttjzctli    i
+dddbwhtsnnoooonuuuununuusunoonnonnnnonnoononssszsunnnoapwMNNpunaeungMMMMMMMMMMMNMNyflt    rli       
+dpdqbhtzzsnnnnnunonuunnnuuunnnnoannnnnoaekhkaooooaaeeahbgwmWkoeykeewMMMMMMMMMMwNNpntli              
+hhdbgerxzssuunnsunnuunussuunnonunnnuuunooeyyyeaeyyyhpdqgbbWWdynnydMMMMMMMMMMMairlli                 
+ddpgwerxzuuunoaonnonuunnnunusuunusssunnooooaaeeeeeyddhqwmNMgoaaahMMMMMMMMMMMz                       
+hdbwNotzsssunnnooooonnoounnuuuunuussssunooftvsoaeanononxywNmeueaeWMMMMMMMMMz                        
+dpbmmntssunnonnnnnnnnnoonnnnnnnnnnuusssuns              vykayedpqwWMWWWNNmx                         
+hdqwwutzsuonnuuunoaonooonnnonuuunuuuszzsnt              ixhbdkyqqbmWNWWyi                           
+hqgmmsjzzssuussuunnnooonuuunuuuunuunsssuf                 iikgbqqbwmNNMMx                      txvjj
+hqggwsjzzsuunnnonuuuunnnuuuszsssuunusszzjrlllrtrlrliiiiiiiiicgbqqdnomWMWqjiiiiiilliiliiiiiiiiiishhyh
+bbbggutcxzsunnnnnonuuuuusssuuuunuuuusszsoyoaeeyyyhhhhhdkhhkkkdbqkyeodNmbynpmMMMMMMWWNMNWmpadphynsxfz
+mgbbgsrcvxxzunnusuuuszzsszzzussunnnnnnuszsunuoaeeaeeyaaaeaaaeoheoypbbppdhydkdpbwwmbqdayyyyaonzuzjfjv
+hpbgwstvxxzzzssssuuuuuusussszsuuuooonooonnsssuzunoaeyyykaaaoeyhyenubmmbppbbhykpqkhhydoszzuzzcfjfvfff
+ydqbbztvvvxzsunssssszzzzsszsuuuuuoaonnnnaaaooaeaoononoooooaooeqpouounznyqbqdqbbwgpqhkeonucvcjjjjrlrt
+dqbbqztxxxzzusussssszzxzsszssunnunonnnnooaaaaooooaaaooeeyeehdqbmqaeeanuemgppghekyeyaaouxcccftttrllll
+pbbbbsjzzsuunnuunnuzzzzsszzzsszsssnuuuunnnszzzuuuoaeaaoekyeonueyayyyeeyzeqdhbyoxxnzxcvcjffcfccvvftlr
+@@FRAME@@
+jfffffffccffcccccccvvvxxxxzzsuuzjrli                                                                
+fcccvvvvvvvxzzuuzxzxzzzuuunnnooncjrli                                                               
+fvzzxzzzzzzzssuusssuuuunnnooaaaaxjtliii                                                      i      
+jcxzzssusssuunnnuunuuunaoaaaeykezctrliii               i      iiiiiiiiiiiiiiiiiii         iiii      
+fvxxzzsuuunnnnoonnonnoaaaeyyyhhyscfjrliiiii    i    iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii   i
+cxzzzzssunnnnnoooaaaoaaykhkyyhpyuvjrllliiii ii i ii iiiiiiiiiiiiiiljfznaydyyauussaykofuliiiiiiiiii i
+vxzsunussnoooaaaaoaeaaeydkeykhphuctrllrrliiii     iiiiiiiiiilrtshNWNNMMMMMNNMMMMMNggqyhsiiiiiiiiiiii
+vxzsuusunnnoaaaeaaaeeeeykkykkppdnvfrlllrrlii iiiiiiiitxapbwNNNbdboahgMMMMMMMMNNMMmkhhaaoriiiiiiiiiii
+cxzsuussuunoaeeyyeoaeyyykkkhkhdhovftllliiiiiiiiiillrxNWWWWNMweuegwkbmMMWNMNNNNWMMmbdayeojlliiiiiiiii
+vxzzsuusuunoaaaaeaoeekkkkkkkkhhyouzxvcvxzuneyhbggdkhbNWWmmmNwgMMNNwwNWmNWMMMMwdNgwpkoefrlrttliiiiiii
+zssssnoooaeyyyykkyeyyhhhhhhhhhdddpbggbbbbbqhyeouzvzsymMMMNWWwNMNwgNNNMMMMMMMWhphofzcjfliirjjfiiiiiii
+zunuunoaeeyhyeyhhhkkkkhhhddhhpdhhhdqdpphdeeoonxzsnooadNMMWWWWWWNmwNmNMMMMMWWmggbyouscjjjtrttliiiiiii
+sunoaooayykhhkyhdphkhpppppbbpqqbqbbbbbqpdyykhyanuoaoaygWMWWMMMWWWWmmWMMMMMNWNwwbbevusjtflltjliiiiiii
+suoaeeeaykhhdpdhdqqhhdpqbqqqpqqqqbbqqqqpkkdpdpdenuaaehgWMMMMWWNbdqWMMMMMMMMWWmNpbaxzzivxsxcjllllti i
+unoekkkyykhhpqppdhhhdhhppbbqpqppqqppqpqqqqhanoyqpbbgbbmMMMMMNqhbbdbmMMWMMMMMMMMqwkanfifxrrtvjtli   i
+uoaeykkkeykhhhhdpdykhhhddpppddddpppdppqbpppdpdhbpbbbmgmMMMMMpehpyokWMMMMMMMMMMMwmqovljr    lri     i
+oeeeeeyykkyyhdhhhhhkykkkhhhdddphdddhppqbbbggggbggwgggqmMWWWWqbbqdhbMMMMMMMMMMMwmbhacri           iii
+oaeeeeeeyhkykhkkehdkykkhhhhhhddddphkykdpqqqgmNmmNmwwmmNNNMWwpkehhbNMMMMMMMMMMklriri          iiiiiii
+noeeyyyykhhhhhhkhhkkkdhhhdhdpdphhhqppqppbbqbbgwggwggbgwmNWqykhadmNNNMMMMMMMgr                iiiiiii
+nnoaeyykkhhhhddhhdhhkhdhpqpppppqdpbbqqbbbqvxneppdyaoonnpbwmyaqdkmWNWMMMMMMWr                ii   i  
+noaeyyykhddddpphkhhhhyydqpphppbhhpqqqdhpba             cygqhypqgmNWWNWWWWWNht                  iii i
+aaaeykkhhkdbbbqdhkykdddqbbbqddpheydpdhyhpf              tehpqbmNmmmmmmNmwNNbqol                iii i
+naoyyyykhhhhhhhdddhhhdpqqqqbpqqqkahpddhhkl                lwNmNNwr   rfskbwbppyr             trrliil
+noaeeeykhhhhdhdhkhhhhhhqqqqbppqqhahbqpqqz                  pNNNNy          rewycl           ihbqhhyh
+oaeeyyyeyddpyehpdhhpdhhpqbbbbbbqqpqgqhddeoyheayosunsuonuuusbNNmmqsuunoaonnoopMwacseeaenzsnoannsxfxxx
+naaonaeeaekdhykhdkhhkkkkhdqbbqbqqbbbqhykhgwwmmmNNNwmNNWWWMMWNbqbqqbggbbwmwmMMMMhfabdqpqhaenuuxffjvxx
+noaoekhdhyyhppdhhhhhhddpppbbbqbbqqbbbggbqdpqwmwmNWWWNNNMMWNWmmwphbpdqbbggwNMMMNqhyouzzsuzzxvjcxcfjfc
+oaaaeeyaeyhpqpddpdhkhhpbqgbbqppqbbbbgmNmwggqqwmmmWWWNNWWWWNMWmdpyoeeqbgwwmNWWmbbbbyouuscvfffjftrrrtr
+uoaaeeykddqbqpqqqqppqpqpbbgwwbbbgggggwmmNNNNNNWWWNWNmmNNmNWMMNbhkeuzupmwwNNNNWgqpanuscjccftrtrllllil
+naeyykhhppqbqqqqbqqqqqqpqbgggqpbbgggbgmmwgwmgmNmmgbbbwmwggbgwbpddhkhoopdkqpkeanoxcjfjtfjjjcfcffrllll
+@@FRAME@@
+jfffffffccffcccccccvvvxxxxzzsuuzjrli                                                                
+fcccvvvvvvxxzzuuzxzxzzzuuunnnooncjrli                                                               
+fvzzxzzszzzzssuusssuuuunnnooaaaaxftliii                                                      i      
+jcxzzssusssuunnnuunnuunaoeeaeyhyzctrliii               i      iiiiiiiiiiiiiiiiiiii        iiii      
+fvxxzzsuuunnnnoonnonnoaaaeyyyhhyscfjrliiiii    i    iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii   i
+cxzzzzssunnnnnooooaaoaayhdkyyhpyuvjrllliiiiiii i ii iiiiiiiiiiiiiirjfznaydyyauussoykojuliiiiiiiiii i
+vxzsunussnoooaaaaoaeaaekdhyykhqhuctrllrrliiii     iiiiiiiiiilttsdmWNNMMMMMNNMMMMMNgwqkhsiiiiiiiiiiii
+vxzsuusnnnnoaaeeeaaeeeeykkkhhpqhnxfrlllrrlii iiiiiiiitxapbwNNNbdboahgMMMMMMMMNNMMmkkhaaariiiiiiiiiii
+cxzsuussuunoaeeyyeoaeyyyhkkhhddhoxftllliiiiiiiiiillrxNWWWWNMweuewmkbmMMWNMNNmmWMMmbdayeojlliiiiiiiii
+xzzzsuusuunoaaaaeaoeekhhkhhhkhdyouzxvcvxzuoekdbwgdkhbNWWmmmNwgMMNNwwNWmNWMMMMwdNgwpkoefrlrttliiiiiii
+zssssnoooaeeeyykkyeykhhhhhhdhhdddpqggbbbbbqhyeouzvzsymMMMNWWgNMNwgNNNMMMMMMMWhphofzcjfllirjjfiiiiiii
+zunuunoaeeyhyeyhdhhkkkhdhppdhppddhpqppphdyeoonxzsnaoadNMMWWWWWMNmwNmNMMMMMWWNwgbyouscjjjtrttliiiiiii
+sunoaooayykhhkyhdphkhpqppqbbpbbbbbgbgbqppkykhyannoaoakgWMWWMMMWWMWmNWMMMMMNWNwmbbevnsjtflltjliiiiiii
+suoeeeeaykhhdpdhdqqkddpqbbqqqqqqqbbbbqqpkkdqpqdenuaaehgWMMMMWWNbdqWMMMMMMMMWWNNpgaxzzivxsxcjrlllti i
+unoekkkyykhhpqpqdhhhdhdpqbbbqqppqqppqqbbqqhanoyqpbbgbbmMMMMMNqhbbdbmMMWMMMMMMMMqwkanficxrrtvjtli   i
+uoaeykkkyykhhhhdpdykhhhddqqqppddpqpdppqbqqpdqpdbpbbbwgmMMMMMpyhpyokWMMMMMMMMMMMmmbovljr    lri     i
+oeeeeeyykkkyhdddhhdkykkhhdddpppddpdhpqqbgbgwggbggwggwqmMWWWWqbbqdhbMMMMMMMMMMMwNbhacri          iiii
+oaeeeeeeyhkykhhhehdhyhhhhhhhddddppdkykpqbbbgmNmNNmwwmmNWNMWwqkehhbNMMMMMMMMMMklriri          iiiiiii
+noeeyyykkhhhhhhkdhhhkddhddhdpppdhhqpqqqqbbbbbgwggwwgbgwmWWqyhhadmNNmMMMMMMMgr                iiiiiii
+nnoaeyykkhhhhdpddddhhhdhpqqpppqqppbbbqbgbbvxneppdyaoonndbmwyaqdkmWNWMMMMMMWr                i    i  
+noaaykykhddddpphhhhhdyydqpqdpqbhhpbbbpdqba             cybqkyppwmNWWNWWWWWNht                  iii i
+aaaayhhhhkdbbbqddkyhdddqbbgbdpqdeyppdhyhpf              tehqqbmWmmmmmmNmwNNbqol                iii i
+naoyyyyhhhhddhhppdhhddpqbqqbqqqqhahppphhkl                lgNmNNwr   rfskbwbppyr             trrliil
+noaeeeyhhddhdddhkdhhhdhbbqqbqqqqhehbqqqqz                  pNNNNy         ilewycl           ihbphhkh
+oaeeyyyekdppyehpddhppddqbbbbbbbqqqqgbhddeoyheayosunsuonuuusbNNmmbssunoaonnooqMwacseeaenzsnoaonsxfxxx
+naaonaeeaekdhykhdhhhkhhkhdqbbbbbbbbbbdyhhbwwmmNNNNmNNNMMWMMWNgqgbpbgwbgmmwmMMMMhfabdqpqhaenuuzffjvxx
+noaoekhphyyhppdhhhdhdddqpqbgbbbbqbbgbgwbqdpqwmmmNWWWWNWMMWNWmNwphbpdqbbggmNMMMNbhyouzzsuzzxvfcxcfjfc
+oaaaeeyaeyhpqpddpdhkhhqbbggbqpqbbbbbwmNNwwgqqgmmNMWWNNWMWWNMNwdpyoaeqgwwwmWMWmbgbbyouuscvfffjftrrrtr
+uoaaeeykddqbqpqqqqpqqpqqbgwwwbbbgwwgwwNmmNNNNNWWWWWNmNNNmNWMMNbhkeuzupmwwNNWWWgqpanusfjccftrtrllllil
+naeyykhdpqqbqqqqbqqqqqqpbgwwwqqbggwwggmmmwwmgmNmmgbbbmmwggqgwbqddhkhoopdkqpkeanoxcjfjtfjjjffcffrllll
+@@FRAME@@
+cccccfjtrlllllllllrrrrtjjjjrliiiiii                               iiiiii          iiiiii            
+xzzzzxvcfjtttttttjjjjfcccccjrllliliiiiii                           iiiiiiii   iiiiiiiiiiiiii    i  i
+suunuuzxvvcffffccccvvxxxxzzcjtrrlrlliiiiiiiiiiiiiiiiiiiiiiiiiii    iiiiiiiiiiiiiiiiiiilliiiiiiiiiiii
+zuuouuszzxvccvxxxvvxzzsuunnvcttrlrllliiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiilliiiiiiiiiliiliiliiiiiiiii
+zuuuuuusszzxxxxzzzzsuunooaazcfjrrrlrlliiiilllliliiliiiiiiiiiiilliiiiiiililllllllllllllllllllliiiiiii
+zunoooouszxzzzzzssunnoaaaaazcfjtrrrrrllllllllllllllllillllllllllllllrtttjjttrrrlllrrllllllllliliiiii
+unooooonuzzsssussunnoaaoaeasvfttrjrrrllllllllllllllllllllllllrjvokqwmNWwmwgbqheanunsvccrlllliiiiiiii
+naeeaaonnusssununnnoaeaaayasvfjtrtjttrrlllllllllllllrjcsaaeygNMMMmwwWMMWWWNmggbbyzzzxvvjllilliiiiiii
+aaeeaonnnuuuunnoaooaoaaeyhyuxcjtrrrrrtrrrlllllllllrtkMMMMMMMMwhwmqNMMMMMMMMMNpydkuxzszxctllliiiiiiil
+nnaaaooooonnoaaoooaaaaaeeyeuvftrrrrrrtfcvvxsuoyhpqbmMMMMMMMMMWMMMMMMMMMMMMMWgbdhhoyxssxfrrlllilillil
+oaaaooaaeoooooaaoaooooaaeeanssunayhdbgwgggbpdddkynoyNMMMMMMMMMMMMMMMMMMMMMMMmdeozxvvxjtrrtrriiiiiiii
+ooooooeeaannnoaaoooaaaoooeaaoonnnnnoaeykheaoanunaydpwMMMMMMMMMMMMMMMMMMMMMMMbenzvvcjffttrrrrliiiiiil
+noanoaaooonooooaaaooaaaaaaoonnnooooooaaehyoaeaoeyyhbgMMMMMMMMMMMMMMMMMMMMMMWgheszcvcjjftrrrrlliillil
+naoooooaaaaooaoaeaoaeeeeoonnnoaaaooaoooooehhhhkeoyhqwMMMMMMMMMMMMMMMMMMMMMMWWpyszfcxjvcjtttrllllllil
+noaaaeeooeeeaaaaooaaeeeaoooooooaaeeaaanoaaaouoadbgNWMMMMMMMMMWMWMMMMMMMMMMMMWwpezccfrczxvjjtrrrrllil
+oaeeeeeaoeeeayyeeeaeeeeaaooaoaeeeeeyeeeeekkyyyeydbwWMMMMMMMgwNWmwWMMMMMMMMMMNWeyuzcjtfjrlrcftrllllil
+oayyyeeaaaeyhkyaaoaaeeeaaaoooooaeyyykhhhqbwbqpqwNmmNWWWWMMMWWNWmmMMMMMMMMMMMNwphuzxcctlliillllllliil
+oaeyyeaaaeeyyyeaoaaeyeeeeaaoaaoaaaaaeyhpqbbbwwmWNWMMMWMWWNmwbwbwNMMMMMMMMMMMkkuvxxftrrrrllllliiillil
+nnoaeeeaaeayyyeeaaeeeyyyyyyyeaykyyyykhdpbgpqgmNNWMMMMMMMWgwwqNMMMMMMMWMWMMNgwbiiillllrrrrllliiiiilll
+uooayyyyeeyyeaooooeyyhdhkkyyyyhhhyyeehqaircnyhkasxznpgMMWbmNbWMMMMMMMMMWWWMMMq   illllrrrrrrlllliill
+oeaeyyeeyeeaeeaaaaeekkhkyeaunaeeeyeaayhl            lhMWwwNNMMMNMMMMMMMMMMMMMqri  iillrrrrrrrlllllll
+oaaeeyeyyyeeaeaaaaekkkhhkyeuxzkeaouunyf     iiii     lfNNNWMMMu fbppypNMMMNwpnftriiiiillrrrrrrrrrlll
+oaaaaaeyeeeeeeaeyeeeyykhhkenscayasssaeiiiiiiiiiiiiii   bMMMMMo          tzeqancjfjliiiillrrrrrrrrrlt
+noaaeeaeaeeeeeeeeykhkhhhhhyauxehenuuyriiiiiiiiiliiiiiiibMMMMw              itffczzftrlloasxvfffjttrt
+noooaeeeaeeaeeeeekhydkkkhheonnyyonuauvvccfttjtjfjjjjtttqMMMMelllrrrlrrrrttrtjjjtcoouvjrcennnsszzvcff
+naooaaeeeeeeeeeyeaeeyyykkkoaeeeosszakdkhhdddhdqbbbgwmNbbmwMMNwgwmNWWMWWMMWNgbbqbqhnakkzjvzfvvcccjjjj
+nooaaaaaaaooaoeaaaaaaeeeeeaaaeaoonzzekyyaaaeyyhhhdpwbmNmNNgmNwggmwgggbgbmdkauznonoueqqezjtfffjjjjjjj
+nooaaoooaaaoaeaeeeeeeeeaekeeeeeeeeuzxsnoannekhhhkpdqgggNbhphqqmNWNwbbbmwbppqynsuszzzzahkacjjjttrrrrt
+oooaaaanoaaaeeeyyyyyeyyykkkyeeeeyyyyeanoaoanaeyyykdpqbmwbykhasndWMwmmmmNbqpyeouxxsnsxxxvvfjtjttrllll
+oeeeaaaaooeaaaaaaaeyyyyykkkeeeeyeeeeaaaaaeeaooeeeyedkhbbhbbgbbphwmbgbhanuoxcffcfcccvvcvvcjtttrrtrlll
+@@FRAME@@
+ffffcvvxxzzxxxxzzsnoaoxftli                                                                         
+ffccvvvvxxzzszzzsnnaaasftlii                                                                        
+jfcvvvxvxxzzzzzzunoaeoxjrlii                                                                        
+jcvxxvvvvxxzzsunoaeeyoxjrlii                                                                        
+jfccccccvxxxzzzsnoooeoxjrlii                                           iiii  iiiljttil              
+tjfffcvvcvxxxxzsuuuunsctlii i                                  ltcsypbwmggwmmbqbbdqhoax             
+ttjffccvvvvvxzxzzssssxftliiiiii                       iljjfvedgwbqdpbpbmNmwwbggwduzzzsni            
+rttjjfccvxvvxxxxxxzzzvjrliiiiii                     rkqbwbwwkxfnnxybwwmNwggbwbybdosznuufi           
+rrtjfffcvvcvvvvzzzzzzxfrliii   iilrrrtjjjfcxxzssusznqbbbbqwbehdhhydwmmNwgwgghhhqpaacxvjlili         
+trtjfffcvvxvvxxszzzssxftttjcuosxunoeyyyyoouxcvvjtlrjnggbggmbbgpddpwWWWNmmgbbpheuvfjffliiljtl        
+rttjjfffcccvvxxxxzxznooaannuxxzxszvxvvvzsxfffjrrffcvxkgwwmmwqqbgmWWNWmNNNmmgdonzcffttrrlllrl        
+rttjjfffffccvvxzzzxzunonnonnnoaekaaasuuuosxxvfffcccvxabNNNWWgdbmmmmWWWNNNmwgdeeuzjjjrrriirri        
+rttjjfffjfccvxzxxxzzuunnneeeykhhdhhkeyasvvnouuuvffvznybNNNNwgpdpbgWWNNNWNmNwweezvtttlfttrrriiii     
+rttjjffffccvvxxzzzzzuuunnoeeyyykhhkykkaonuxcjjcsnooakbmwmmpaohhddwNNNWWNNmwgbeevfttriffjtrtrllli    
+rttjjjffcvcfvvxxzxzzzzzsonooaeeyhddhdhpdyyoszxvxzoakdwmmwazakovcadNNNWNmNNwmdyzcfttirri  icji       
+rrttjjjjffccvcvxxxzzssssnuunuuunuoaehpqqbbbqkeeyyeehpwmgbddyosxzygNNmmNwgwNmpazzfctll               
+lrrtttjjjffccvvvccvzzszzsszsxzzuszuuunehpbbbgqpqdkdbbmmbhasxxsppwmmmNmmmmwgbnxxcri                  
+lrrtttjjfjffcccccccvvxxzzzzzvzsuooaekytjndppdbqdhhkyaqwnsscvybmwgmmwwwNmmgyoehwqi                   
+lrtttjjjjfffcccvvvvvvxxssssssunnussnej    iljcxxftrsehnvueuagWgbbmmmwmNwwbqmNgwa                    
+lrrrtttttjjjffcvccccvxxvtlvnszxvftjjf              tokoooadbyirkqeegkbmmwqhpbdhfi                   
+lrrttttjjtttjffcccccccftlliuzvcfjjjt                fuoyhdhv   i     rllrzossftliii                 
+lrrrttjttjjjfffccfffcfjtrlinzfrrrft                 voeyyer                lctlliii                 
+llrrtttttjjjfjfffffffcjttltxcttrjl                 ieeeaor                    iliiii iijtrrrliiilrrt
+llrrtttjjjjjjfccfccccccfjfxctttcjlllliiiiiiiiiiiiiirxzoexiiiiiiiiiiiiiiiiiiiiiiiljjjriilrvyouzxcfjrj
+llrrtttttjjjjfffffcccvxzszzvfjjunnunooooaeooeyeonxzjssaaxzxnaekhdppqbbpdyykauuzxxxvxxcftrllrtjfffcjc
+lllrrttrttjjjjjffffccvxxzsszxftjunnsuuusszxxssnzxsnvxxcvccxzzxxzuusszxzccffvvffrrjffjjcuazrrlitfjftf
+lllrrtttjjjjjjffffccvvxzzzzsunvcjjvvcfvuunuzuxvxxxxcfcfttfcssvzxxzszunnxvvvcjjtttjjttttccneostrrrrrr
+lllrrtttjjjffjffccvxvvzzszzzznnanzzxzzvvsnnzxzussuuzvfffcfsannausnnzzxxxzxfjjjtrtttrrtrtttrrlllllllr
+lllrrtttjjjjffffcvxvvzzszxxvcvvvxzssunaozznxcjctfftttjftrrtffjcjtllrrrlrrllrrlrrttjrlliiiiiii iliiii
+lllrrttjjjjfjffffcvvvxzxvcfffffcccxxxzxzzjvctcxxcttrltrllrrttrctrrrlrrrrrlliilliliiilliiii    ii iii
+@@FRAME@@
+ffffcvvxxzzxxxxzzsnoaoxftli                                                                         
+ffccvvvvxxzzszzzsnnaeasftlii                                                                        
+jfcvvvxvxxzzzzzzunoaeoxjrlii                                                                        
+jcvxxvvvvxxzzsunoaeeyoxjrlii                                                                        
+jfccccccvxxxzzzsnoooeoxjrlii                                           iiii  iiiljttil              
+tjfffcvvcvxxxxzsuuuunsctlii i                                  ltcsypbwmggwmmbqgbdqhoax             
+ttjffccvvvvvxzxzzssssxftliiiiii                       iljjfvedgwbqdpbpbmNmwwbggwduzzzsni            
+rttjjfccvxvvxxxxxxzzzvjrliiiiii                     rkqbwbwwkxfnnxybwwmNwggbwbybdosznuufi           
+rrtjfffcvvcvvvvzzzzzzxfrliii   iilrrrtjjjfcxxzssusznqbbbbqwbehdhhydwmmNwgwgghhhqpaacxvjlili         
+trtjfffcvvxvvxxszzzssxftttjcuosxunoeyyyyoouxcvvjtlrjnggbggmbbgpddpwWWWNmmgbbpheuvfjffliiljtl        
+rttjjfffcccvvxxxxzxznnoaonnuxxzxszvxvvvzsxfffjrrffcvxkgwwmmwqqbgmWWNWmNNNmmgdonzcffttrrlllrl        
+rttjjfffffccvvxzzzxzunonnonnnoaekaaasuuuosxxvfffcccvxabNNNWWgdbmmmmWWWNNNmwgdeeuzjjjrrriirri        
+rttjjfffjfccvxzxxxzzuunnneeeykhhdhhkeyasvvnouuuvffvznybNNNNwgpdpbgWWNNNWNmNwweezvtttlfttrrriiii     
+rttjjffffccvvxxzzzzzuuunnoeeyyykhhkykkaonuxcjjcsnooakbmwmmpaohhddwNNNWWNNmwgbeevfttriffjtrtrllli    
+rttjjjffcccfvvxxzxzzzzzsonooaeeyhddhdhpdyyoszxvxzoakdmmmwazakovcadNNNWNmNNwmdyzcfttirri  icji       
+rrttjjjjffccvcvxxxzzssssnuunuuunuoaehpqqbbbqkeeyyeehpwmgbddyosxzygNNmmNwgwNmpazzfctll               
+lrrtttjjjffccvvvccvzzszzsszsxzzuszuuunehpbbbgqpqdkdbbmmbhasxxsppwmmmNNNmmwgbnxxcri                  
+lrrtttjjffffcccccccvvxxzzzzzvzsuooaekytjndppdbqdhhkyaqwnsscvybmwgmmwwwNmmgyoedgqi                   
+lrtttjjjjfffccccvvvvvxxssssssunnussnej    iljcxxftrsehnvueuagWgbbmmmwmNwwbqmNgwa                    
+lrrrtttttjjjffcvccccvxxvtlvnszxvftjjf              tokoooadbyirkqeegkbmmwqhpbdhfi                   
+lrrttttjjtttjffcccccccftlliuzvcfjjjt                fuoyhdhv   i     rllrzossftliii                 
+lrrrttjttjjjfffccfffcfjtrlinzfrrrft                 voeyyer                lctlliii                 
+llrrtttttjjjfjfffffffcjttltxcttrjl                 ieeeaor                    iliiii iijtrrrliiilrrt
+llrrtttjjjjjjfccfccccccfjfxctttcjlllliiiiiiiiiiiiiirxzoexiiiiiiiiiiiiiiiiiiiiiiiljjjriilrvyouzxcfjrj
+llrrtttttjjjjfffffcccvxzszzvfjjunnunooooaeooeyeonxzjssaaxzxnaekhdppqbbpdyykauuzxxxvxxcftrllrtjfffcjc
+lllrrttrttjjjjjffffccvxxzsszxftjunnsuuusszxxssnzxsnvxxcvccxzzxxzuusszxzccffvvffrrjffjjcuazrrlitfjftf
+lllrrtttjjjjjjffffccvvxzzzzsunvcjjvvcfvuunuzuxvxxxxcfcfttfcssvzxxzszunnxvvvcjjtttjjttttccneosjrrrrrr
+lllrrtttjjjffjffccvxvvzzszzzznnanzzxzzvvsnnzxzussuuzvfffcfsannausnnzzxxxzxfjjjtrtttrrtrtttrrlllllllr
+lllrrtttjjjfffffcvxvvzzszxxvcvvvxzssunaozznxcjctfftttjftrrtffjcjtllrrrlrrllrrlrrttjrlliiiiii  iliiii
+lllrrttjjjjfjffffcvvvxzxvcfffffcccxxxzxzzjvctcxxcttrltrllrrttrctrrrlrrrrrlliilliliiilliiii    ii iii
+@@FRAME@@
+nususzszzxxxvxvvfrli                                                                                
+uouusssszzxxzxxzctli                                                                                
+unnuunnszzzzxxxxctli                                                                                
+nnnnnuuuzzzzxxxxcrli                                                                                
+uunuunuuzxzxzxzxctlii                                                             ii                
+usnuunnusszxzzxvftli                                              illrfccvvxzzunoeyovct             
+sunnuusszszxxxvcftli                                        iltzoneykeeaonnunsoyacfcfjci            
+uonusssszzzxvxccftlii                                ijczzxvfrlltrjfxzxzunssuavznvjfvcfri           
+suusuusszzxxvvvvftlii           iiiiiiiiiiiiiiiilllltccvvfcfrrrrjtrczuzsxxsunxfcnxsjtjli i          
+zusszszzzzxxvvvcctlii iiilrtrrllilllllllllliiiliii  ifvvcfvffvcfjjjxouzzzzsnzzxxttllri  illi        
+suussuzsszzzxxxvftttjjtrrlllliliillliiiiiiiiiii iiiiirccvvxcvvcccvvxzssunnaosvjjtrliiiiiiiii        
+zunusszzzxxxxvvcccfjjtttrrrrrrtrttrrliliiiiiiiiiiiiiiljvxxxzxvvvszzsnousnnoszcjjtllliiii il         
+zsszsssszzxxvvcccffjtjttttttttttjjjjtrrliilrllliiiiiltcsszxfccvxvvzuszzzsxzzxzfftliliirllili        
+zzzzszzzxxxxvvcccfffjjttrrrrtttjjjjtttrrlliiiiillllrtfxxvjrllttrjzzsusunozzzznffrlii  trtlllii i    
+zsuuszzzxzxxxxvcccccfjttrrrrtjjtjfccfjjjtrllllllilrjfvvvrilttrrrjzoosnnonassnzffrrli ii   rrl       
+zzusssszzzzzxvccccccfjjjttrrtttrrrrtfccfcfjjttttrttfvvvjtjftlilrjvnnsoauueaaazcfftliii              
+xzsnnuzzzzzxxxcccccffjjjttrrtttrrrrrttjfcccccffccccvxxcvfrllltjjfzusuuousonnuctjjli                 
+zzuzzxxvvxxxxxvccfffjjjjttrrrrlrrjjjrrrtjvxxcffcffffvcttrrrjvxvvszusnnusuuuzctrffi                  
+uuusszxzzzzzxvvccffffffjjjttlrtfccvi     irjcccvtttjftrrrrfxxvxfzxuzsssszxxjltvsi                   
+uuusuuszxxxvvccfffjffffjjjtrfcjtrti               rtrrrrffvtircccvfzxzxxcvftrjf                     
+ssusuusszzxvccfccfffffjjtjjjjtrrl                 rrtjcccf    li    iljxftttttti                    
+zsussssusxvcfcfffffffjtjfjjtrrri                 ilrtjffl               iiii                        
+zsszzzzzccffccfjjjtli rfjtrrrl                   rtrtjt                   i                    i    
+zzzxvzzxvvvccfffjtrlltfjrrrr                    iilrtl                            ixzzxvftrrrlilrtrt
+xxxvxzxxvvvvcffjjjttjjttrrrtrrrlllrlrrllllllllrlirrjtlllrrrrrtttjtjtttrllrtjri      trllilllrrrrtjfc
+xxxxxzzzzvvvffjjjjjjjjjtrlljjjjjtttttjjttttrrttlrtjrllrrllllrrtrrrrlrrrrrllrrliii    illlillllllrjcv
+xvzzzzzxvxvcfffffffjjjjjtrlllttrrjjjjjtttttrrrllrtrllrrrlllilllllrlliiliiiililiirl          ii ilrtt
+xxxxxxxvccccvcffjjjjjjjtjjjtrrrrllrrttrrrtrtttjrlliiilttrtrrrrlrrlllliilliiiiiiiiilrrii           ii
+xzszxzzxvvccccfffjjjttttttrtttttttrrttrrllllrllllrliiilliii                 ii                    ii
+vcxvvvvvvxvcfffjjjttttrrrrrrrrrrrrlrirlilrrriiiiii  iiii iii                                       i
+@@FRAME@@
+qqbbbggwwwmgpnfri                                                                                   
+dqbqbpbbbbbphnfrl                                                                                   
+hdhdbbqqgbbqhujrl                                                                                   
+dhpbggbqbwgbhufli                                                                                   
+qqqqbbbbbwgbdncrli                                                                                  
+pqbgbbqggwwmbnfrjl                                              iltfxsnnnnzunouszoyhnxv             
+pbbpdbgbbbgwpnfrjtli                                  iljjfcxoypgbqpdqbbbdhhddhdqksoooat            
+ppppdpqqpbbmdnjtriii       iilrtrrttrrrrrrrlrrrrllllrswmmmNNwacjooeqqdkayhyhhppepeszoneel           
+pqqpdhqbpqgbhofrli  ltvzoaehhhoxfjfftvzuuzxccjvszvtrvgWNNmNmyzsvsoxygwphkhpkhdozeyhdcsnuti          
+bbqqpddqqwwpknjrjzybdhsccffjccffjfvjrrrtjjtrllrllrrtjqWWwNNbbbphheeqNNbdkhhpdkhyuucfvxliijxj        
+qpppqqbbbggpksckNNwbddauzxzssuooeehaxftjtftttccttcvzzyWMWWWNNgqbgmwgwbqhkkhhhesxctjririiircfi       
+qqbbdddbbbbpyywNNNNmwwgqhyoxcxnsxkwNwqyovvuheuvvcjzuupWMMMMWNNNNMwgmNwbkhyhkyscxftrjriltlrxr        
+qppqqppqqqqpqwmWmWWNmwmpuxxcjrrjchNNwNNwdeccffzsnsahgMMMMbauebWmbbWNwqbpqnaeaoxzjtijtijjlrcj  i     
+bbpbqpbbgggbwgwnzwmmmwwbhozzftttjshqNmwwgaxvccczzoqmMMwsjvzaaoohwNNmbgbbdanekqxsrrlli xoezzflrrt    
+bqppqqbbbbbbgbsrfpmwmwgbbphazfttrtuasabwggkeykkhdpbNMbvxabhuvccvhwNbbgbpdbyydbvoftrl ijiilvozr      
+qqpphpqqbbqbgajriiizggwdayhhasfriljnuehbNNWMWNmNmmNWbbbqhoocxsuobMmgbgwbqqbpqboauvtr i     i        
+qdpqpqpbbqbgdzjti  ipggbyooeonzctltxcvywwNNWMNbneMMwshhhusnbggwmmNWNNNNbbqbdhkasszli                
+bqpqqqqbbbwbyufrlirnmmbggbkeekyofi     ivqgmNNypNNpscozvkwNMWbmNWMWWNNmwgpdysxji                    
+qpphpbbbbgbdeoydgmNWNmbqpphkykyni          ltfcvzncxnesnywNNmbwgmNmNmmwwbhsctc                      
+qpdppddqbbheaapgpqgggbbgbqpyexi                  txoehpqhorxdmmbbgwwwbqddtlii                       
+dhhkdpqpqqphaadbqbbggwwmwgkr                     fyyneyov   iifkdbbgpdhyo                           
+qqphhdgbbbbpnshbbppgmwgdzl                       jsaaeav        lljpheenzr                          
+dqpdpqbbbpqhozedkydgqer                          coauaz            icjjirji           iii           
+ggqqppbbqbbdeayqheydallli  i                  iltfcxsnl              rt  rlywwmwbdaozeaczuzcjfcxsznx
+pqpdpqhhdbggwgbgbhyyyggwwwwbwbwbbbpponzonnayntlfoneydqbbpqqpddbdkakydhvriiliaqkeoxzoeeaekpkyeoouuaeo
+kpddppppppqbgwbggbhyeaddypgmmmbbgqpdayakyhqdekgNmqdhhynassnzvxsehyyyykyxztii rxuusvuuoeuaeeykaooeeyo
+dqpqbbbbgppbwwwgwwwggpdhaohbwggwgqdhhdppbgNmbNmwpayaehpeyoyaeuouneooonasobcrli     irfjrtvfxffzuzeee
+dpdhdqppbbbbqbggqpdqbqbbwghyebqkykyephnyeydaufebpdqynzusxxxxnnnaoeonnozuvzsyxiirtllrllliiii     iilr
+hdhpppppppdqpdpphkkkeyhekhyanoentuddaffrrtriijjcflclrliiliill iiiillrtttlliiiiii   iii iii iiiiiltll
+hhkhhhddhdddhhdkkhddyykaeddddkaayddeuuoxcjourffliilililrfftiiliiiiiiiiiilliirli    i  iiii     iilii
+@@FRAME@@
+qqbbbggwwgmgpnfri                                                                                   
+dqbqbpbbbbbphnfrl                                                                                   
+hdhdbbqqgbbqhujrl                                                                                   
+dhpbggbqbwgbhufli                                                                                   
+qqqqbbbbbwgbdncrli                                                                                  
+pqbgbbqbggwwbnfrjl                                              iltfxsnnnnzunouszoyhnxv             
+pbbpdbgbbbgwpnfrjtli                                  iljjfcxoypgbqpdqbbbdhhddhdqksoooat            
+ppppdpqqqbbmdnjtriii       iilrtrrttrrrrrrrlrrrrllllrswmmmNNwacjooeqqdkayhyhhppepeszoneel           
+pqqpdhqbpqgbhofrli  ltvzoaehhhoxfjfftvzuuzxccjvszvtrvgWNNmWmyzsvsoxygwphkhpkhdozeyhdcsnuti          
+bbqqpddqqwwpknjrjzybdhsccffjccffjfvjrrrtjjtrllrllrrtjqWWwNNbbbphheeqNNbdkhhpdkhyuucfvxliijxj        
+ppppqqbbbggpksckNNwbddauzxzssuooeehaxftjtftttccttcvzzyWMWWWNNgqbgmwggbqhkkhhhesxctjririiircfi       
+qqbbdddbbbbpyywNNNNmwwgqhyoxcxnsxkwNwqyovvuheuvvcjzuupWMMMMWNNNNMwgmNwbkhyhkyscxftrjriltlrxr        
+qppqqppqqqppqwmWmWWNwwmpuxxcjrrjchNNwNNwdeccffzsnsahgMMMMbauebWmbbWNwqbpqnaeaoxzjtijtijjlrcj  i     
+bbpbqpbbgggbwgwnzwmmmwwbhozzftttjshqNmwwgaxvccczzoqmMMwsjvzaaoohwNNmbgbbdanekqxsrrlli xoezzflrrt    
+bqppqqbbbbbbgbsrfpmwmwgbbphazfttrtuasabwggkeykkhdpbNMbvxabhuvccvhwNbbgbddbyydbvoftrl ijiilvozr      
+qqpphpqqbbqbgajriiizggwdayhhasfriljnuehbNNWMWNmNmmNWbbbqhoocxsuobMmgbgwbqqbpqboauvtr i     i        
+qdpqpqpbbqbgdzjti  ipggbyooeonzctltxcvywwNmWMNbneMMwshhhusnbggwmmNWNNNNbbqbdhkasszli                
+bqpqqqqbbbwbyufrlirnmmbggbkeekyofi     ivqgmNNypNNpscozvkwNMWbmmWMWWNNmwgpdysxji                    
+qpphpbbbbgbdeoydgmNWNmbqqphkykyni          ltfcvzncxnesnywNNmbwbmNmNmmwwbhsctc                      
+qpdppddqbbheaapgpqgggbbgbqpyexi                  txoehpqhnrxdmmbbgwwgbqddtlii                       
+dhhkdpqpqqphaadbqbbggwwmwgkr                     fyyneyov   iifkdbbgpdhyo                           
+qqphhdggbbbpnshbbppgmwgdzl                       jsaaeav        lljpheenzr                          
+dqpdpqbbbpqhozedkydgqer                          coauaz            icjjirji           iii           
+ggqqppbbqbbdeayqheydallli  i                  iltfcxsnl              rt  rlywwmwbdaozeaczuzcjfcxsznx
+pqpdpqhhdbggwgbgbhyyyggwwwwbwbwbbbpponzonnayntlfoneydqbbpqqpddbdkakydhvriiliaqkeoxzoeeaekpkyeoouuaeo
+kpddppppqpqbgwbggbhyeaddypgmmmbbgqpdayakyhqdekgNmqhhkynassnzvxsehyyyykyxztii rxuusvuuoeuaeeykaoaeeyo
+dqpqbbbbgppbwwwgwwwggpdhaohbwggwgqdhhdppbgNmbNmwpayaehpeyoyaeuouneooonasobcrli     irfjrtvfxffzuzeee
+dpdhdpppbbbbqbggqpdqbqbbwghyebqkykyephnyeydaufebpdqynzusxxxxnnnaoeonnozuvzsyxiirtllrllliiii     iilr
+hphpppppppdqdhpphkkkeyhekhyanoentuddaffrrtriijjcflclrliiliill iiiillrtttlliiiiii   iii iii iiiiiltll
+hhkhhhddhdddhhdkkhddyykaeddddkaayddeuuoxcjourffliilililrfftiiliiiiiiiiiilliirli    i  iiii     iilii
+@@FRAME@@
+ggqevtli                                                                                            
+bbdocrl                                                                                             
+bwdafli                                                                                             
+bbhoti                                                                                              
+hyyxri                                                                                              
+dyavtii                                                           rrrfvvcvzszvvcjtjcvfrl            
+keavrii                                                  irtcvvvssueyyouuyhqdddqqbgbqbqdi           
+ekaxjrllli                          iilliiiiiiiiiiiiilrneaakhunydyhqeekaonuooaykekpaxuano           
+ydeufrlliii                irjfrlii  iilillrllrlrttrllfoaeyykyqazcxxvnnunusononoaveeannayni         
+qqpevrlli            iillii i  iii  ii   iiiiiiiiiilllrsbphynaocfjfsjcnkkhheahqynzokeoszftrti       
+wwbevtrlii       lxeexfjrliiilrriiiiilliiiiilllrrrlrrttcpbbqhpzsuffxfxeyhydbpgNqosvzjrtrlilvx       
+mNgyzjtrli     lamwbhszaansjrjjffrlrtjvcrllrjjjrlrrrrrttuwwgbhaaosnaoykkkkhppgqyxvcjfjrrtttfj       
+NNwpzjtriiii luwmmhhgbyaeyyscjffrrlltvssuvjtrlttrrttrtjjsbgbhpkyoohbqoapheakoeeoovxjrjtltrrcjill    
+mwwdsjtliiiivgmpfiipwmNbaezccvepesvttjzcxuksvjtttrjffcsekhggpbqqqpdhkkpqhhhpneahecfrltlroanxxtfjl   
+mmwdufjliithgqf   lbwNWNWWwhujtfvunvjtrtwmmgdosxvvcczakhqbgmmbdujrllzkbwqbdnunedzvjttrirfccxauc     
+mmNqucjlrnwgz     swmNWWNNmmwhzfrlilliiipWWWWNNgphhkhdkpmmWMwkti ii iroqkkknsaykuvcftri    tft      
+mNmqsvjxgmai      hknedgNWmwponjtli     cbNNWWmmwwwwwwbwwwwgul   i iifkqhheeyyoscsvrri              
+mwgpsspwer       lqhaeehhpbmNqfliii i     lzpmNNNmmNNmqauoeci    ilfuehhydpdnl                      
+wwgkkwpj        joekeyanzzewmohutrli            i        tkxllllllrxydbmNNai                        
+mwwwgnri     ifyyxrrrvozunef   eoxfrii                   lhycvvvcrltammmqi                          
+gNmgocrii tahyzjtttrtvvfli     ldacjl                    rupycfvzvcvzvjttl                          
+NNghucriiiskvcvcxxcfti          yevri                      ljcvseenoexftliii                        
+Nmgbexflilypdeocl               xyxli                       rjxhmNNpttftrrrliitri     ii            
+NWNmpoxjrrewknt                 ttlii                       yMmsoeqWMWWwpaaozcnkhpekddhbbpheevunaeay
+NNWMMWmgqbNmaupyyyyeykyaoonuuznokzji   tvzxsnonunozuayosenekhkhoofvuoedpyoneykhqppyayyaoonnnyeehhqdo
+NWMMMMMMMMMWhedydWWMMWWggbpekaqyehder    ircfccxvxjfcvzzxxzsnuunesshMMNNpkooaxxoeyanyhaepdobppdkqpuz
+wmMMMMMMMMWMWWMwhdbwmmghhddbhhpbgbbgwhxl   iillrxsznuuzaeuzzzuuyhpuhqdmwdanoozccjjtrrtjcccxcczxzcvnk
+wmNMMMWWWNwgNWmWmgpkdhavnonuxvfjvfrjznkasztzsnzrilllillllrrttjrlrlllii   irliilrilrlrjfcvjcxzzzyyssk
+wNWWMWmgNNwhdqyyqbpphyyhdkozzsftjxcrftliiliiiiillliiiiiiliii iiiiirliili iilliilliliillcrllrftllcooy
+gmWWWWmbphkaoajrvcvzvvvxffjjfjttfttrlliirrtccrriii irliiiiiii   iiiii irlilljltfjttllfxszfctvzxezzjv
+@@FRAME@@
+ggqevtli                                                                                            
+bbdocrl                                                                                             
+bwdafli                                                                                             
+bbhoti                                                                                              
+hyyxri                                                                                              
+dyavtii                                                           rrrfvvcvzszvvcjtjcvfrl            
+keavrii                                                  irtcvvvssueyyouuyhqdddpqbgbqbqdi           
+ekaxjrllli                          iilliiiiiiiiiiiiilrneaakhunydyhqeekaonuooaykekpaxuano           
+ydeufrlliii                irjfrlii  iilillrllrlrttrllfoaeyykyqazcxxvnnunusononoaveeannayni         
+qqpevrlli            iillii i  iii  ii   iiiiiiiiiilllrsbphynaocfjfsjcnkkhheahqynzokenszftrti       
+wwbevtrlii       lxeexfjrliiilrriiiiilliiiillllrrrlrrttcpbbqhpzsuffxfxeyhydbpgNqosvzjrttlilvx       
+mNgyzjtrli     lamwbhszaansjrjjfftlrtjvcrllrjjjrlrrrrrttuwwgbhaaosnaoykkkkhppgqyxvcjfjrrtttfj       
+NNwpzjtliiii lnwmmhhgbyaeyyscjffrrlltvssuvjtrlttrrttrjjjsbgbhpkyoohbqoapheakoeeoovxjrjtltrrcjill    
+mwwdsjtliiiivbmpfiipwmNbaezccvepesvttjzcxuksvjtttrjffcsekhggpbqqqpdhkkpqhdhpnaahecfrltlroanxxtfjl   
+mmwdufjliithgqf   lbgNWNWWwhujtfvunvjtrtwmmgdosxvvcczakhqbgmmbdujrllzkbwqbdnunedzvjttrirfccxauc     
+mmNbucjlrnwwz     swmNWWNNmmwhzfrliliiiipWWWWNmgdhhkhdkpmmWMwkti ii iroqkkknsaykuvcftri    tft      
+mNmquvjxgmai      hknedgNWmwponjtli     cbNNWWmmwwwwwwbwwwwgul   i iifkqhheeyyoscsvrri              
+mwgpsspwer       lqhaeehhpbmNqfliii i     lzpmNNNmmNNmqauoeci    ilfuehhydpdol                      
+wwgkkwpj        joekeyanzzewmohutrli            i        tkxllllllrxydbmNNai                        
+mwwwgnri     ifyyxrrrvozunef   eoxfrii                   lhycvvvcrltammmqi                          
+gNmgocrii tahyzjtttrtvvfli     ldacjl                    rupycfvzvcvzvjttl                          
+NNghucriiiskvcvcxxcfti          yevri                      lfcvseenoexftliii                        
+Nwgbexflilypdeocl               xyxli                       rjxhmNNpttftrrlliitri     ii            
+WNNmpoxjrrewknt                 ttlii                       yMmsoeqNMWWmpaaozcnkhpekddhbbpheevunaeay
+NNMMMNwgqbWmaupyyyyeykyaoonuuznokzji   tvzxsnonunozuayosenekhkhoofvuoedpyoneykhqppyayyaoonnnyeehhqdo
+NWMMMMMMMMMWhedydWWMMWWggbpekaqyehder    ircfccxvxjjcvzzxxzsnuunesshMMNNpkooaxxoeyanyhaeddobppdkqpuz
+wmMMMMMMMMWMWWMwhdbwmmghhddbhhpbgbbgwhxl   iillrxsznuuzaeuzzzuuyhpuhqdmwdanoozccjjtrrtjcccxcczxzcvnk
+wmWMMMWWWNwgNWmWmgpkdhavnonuxvfjvfrjznkasztzsnzrilllillllrrttjrlrlllii   irliilrilrlrjfcxjczzzzyyssk
+wNWWMWmgNNwhdqyyqbpphyyhdkozzsftjxcrftliiliiiiillliiiiiil ii iiiiirliili iilliilliliillcrlirfrllcooy
+gmWWWWmbphkaoajrvcvzvvvxffjjfjttfttrlliirrtccrriii irliiiiiii   iiiii irlilljltfjttllfxszfctvxxezzjv
+@@FRAME@@
+ggqevtli                                                                                            
+bbdocrl                                                                                             
+bwdafli                                                                                             
+bbhoti                                                                                              
+hyyxri                                                                                              
+dyavtii                                                           rrrfvvcvzszvvcjtjcvfrl            
+keavrii                                                  irtcvvvssueyyouuyhqdddpqbgbqbqdi           
+ekaxjrllli                          iilliiiiiiiiiiiiilrneaakhunydyhqeekaonuooaykekpaxuano           
+ydeufrlliii                irjfrlii  iilillrllrlrttrllfoaeyykyqazcxxvnnunusononoaveeannayni         
+qqpevrlli            iillii i  iii  ii   iiiiiiiiiilllrsbphynaocfjfsjcnkkhheahqynzokenszftrti       
+wwbevtrlii       lxeexfjrliiilrriiiiilliiiillllrrrlrrttcpbbqhpzsuffxfxeyhydbpgNqosvzjrttlilvx       
+mNgyzjtrli     lamwbhszaansjrjjfftlrtjvcrllrjjjrlrrrrrttuwwgbhaaosnaoykkkkhppgqyxvcjfjrrtttfj       
+NNwpzjtliiii lnwmmhhgbyaeyyscjffrrlltvssuvjtrlttrrttrjjjsbgbhpkyoohbqoapheakoeeoovxjrjtltrrcjill    
+mwwdsjtliiiivbmpfiipwmNbaezccvepesvttjzcxuksvjtttrjffcsekhggpbqqqpdhkkpqhdhpnaahecfrltlroanxxtfjl   
+mmwdufjliithgqf   lbgNWNWWwhujtfvunvjtrtwmmgdosxvvcczakhqbgmmbdujrllzkbwqbdnunedzvjttrirfccxauc     
+mmNbucjlrnwwz     swmNWWNNmmwhzfrliliiiipWWWWNmgdhhkhdkpmmWMwkti ii iroqkkknsaykuvcftri    tft      
+mNmquvjxgmai      hknedgNWmwponjtli     cbNNWWmmwwwwwwbwwwwgul   i iifkqhheeyyoscsvrri              
+mwgpsspwer       lqhaeehhpbmNqfliii i     lzpmNNNmmNNmqauoeci    ilfuehhydpdol                      
+wwgkkwpj        joekeyanzzewmohutrli            i        tkxllllllrxydbmNNai                        
+mwwwgnri     ifyyxrrrvozunef   eoxfrii                   lhycvvvcrltammmqi                          
+gNmgocrii tahyzjtttrtvvfli     ldacjl                    rupycfvzvcvzvjttl                          
+NNghucriiiskvcvcxxcfti          yevri                      lfcvseenoexftliii                        
+Nwgbexflilypdeocl               xyxli                       rjxhmNNpttftrrlliitri     ii            
+WNNmpoxjrrewknt                 ttlii                       yMmsoeqNMWWmpaaozcnkhpekddhbbpheevunaeay
+NNMMMNwgqbWmaupyyyyeykyaoonuuznokzji   tvzxsnonunozuayosenekhkhoofvuoedpyoneykhqppyayyaoonnnyeehhqdo
+NWMMMMMMMMMWhedydWWMMWWggbpekaqyehder    ircfccxvxjjcvzzxxzsnuunesshMMNNpkooaxxoeyanyhaeddobppdkqpuz
+wmMMMMMMMMWMWWMwhdbwmmghhddbhhpbgbbgwhxl   iillrxsznuuzaeuzzzuuyhpuhqdmwdanoozccjjtrrtjcccxcczxzcvnk
+wmWMMMWWWNwgNWmWmgpkdhavnonuxvfjvfrjznkasztzsnzrilllillllrrttjrlrlllii   irliilrilrlrjfcxjczzzzyyssk
+wNWWMWmgNNwhdqyyqbpphyyhdkozzsftjxcrftliiliiiiillliiiiiil ii iiiiirliili iilliilliliillcrlirfrllcooy
+gmWWWWmbphkaoajrvcvzvvvxffjjfjttfttrlliirrtccrriii irliiiiiii   iiiii irlilljltfjttllfxszfctvxxezzjv
