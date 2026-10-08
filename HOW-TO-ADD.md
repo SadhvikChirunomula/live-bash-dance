@@ -67,7 +67,7 @@ git commit -m "Add dance animation"
 ```
 
 Open a pull request. A bot comments with a still frame of your animation. Once it's merged, GitHub Actions publishes it, and it shows up in
-`curl -sL https://<site>/list`.
+`curl -sL https://sadhvikchirunomula.github.io/live-bash-dance/list` (or your fork's Pages URL).
 
 ## With Claude Code
 

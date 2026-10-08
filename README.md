@@ -3,16 +3,22 @@
 Lifelike terminal animations drawn using **only letters**, from real video. One command, nothing to install:
 
 ```bash
-curl -sL https://<you>.github.io/live-bash-dance/horse | bash
+curl -sL https://sadhvikchirunomula.github.io/live-bash-dance/horse | bash
 ```
 
-See everything available with `curl -sL https://<you>.github.io/live-bash-dance/list`. Get a different animation
+See everything available with `curl -sL https://sadhvikchirunomula.github.io/live-bash-dance/list`. Get a different animation
 each run from `/random`, or watch them all in turn, a few seconds each, with `/all`.
+
+<p align="center"><img src="docs/horse.gif" alt="The Horse in Motion drawn in letters, playing in a terminal" width="860"></p>
+
+| `/waltz` in a terminal | the web gallery |
+|---|---|
+| <img src="docs/waltz.gif" alt="Waltz (1887) drawn in letters" width="420"> | <a href="https://sadhvikchirunomula.github.io/live-bash-dance/"><img src="docs/gallery.png" alt="Web gallery with copy-paste commands" width="420"></a> |
 
 Press Ctrl-C to stop. Options:
 
 ```bash
-curl -sL https://<you>.github.io/live-bash-dance/horse | bash -s -- --color --loops 3 --fps 15
+curl -sL https://sadhvikchirunomula.github.io/live-bash-dance/horse | bash -s -- --color --loops 3 --fps 15
 ```
 
 | option | what it does |
@@ -26,8 +32,8 @@ curl -sL https://<you>.github.io/live-bash-dance/horse | bash -s -- --color --lo
 On Windows, use PowerShell (5.1+, or PowerShell 7 on any OS):
 
 ```powershell
-irm https://<you>.github.io/live-bash-dance/horse.ps1 | iex
-& ([scriptblock]::Create((irm https://<you>.github.io/live-bash-dance/horse.ps1))) -Color -Loops 3
+irm https://sadhvikchirunomula.github.io/live-bash-dance/horse.ps1 | iex
+& ([scriptblock]::Create((irm https://sadhvikchirunomula.github.io/live-bash-dance/horse.ps1))) -Color -Loops 3
 ```
 
 The parameters are `-Color`, `-Loops`, `-Fps`, `-Width` and `-Seconds`. `random.ps1` and `all.ps1` work too.
@@ -37,7 +43,7 @@ Inspired by `curl ascii.live/rick`, with one difference: ascii.live needs a runn
 inside it, and the script plays them on your machine. It makes no network calls, writes no files and runs no `eval`.
 Open the URL in a browser to read it before you pipe it.
 
-The same site has a browser gallery at `https://<you>.github.io/live-bash-dance/`, with colour and bash/PowerShell toggles.
+The same site has a browser gallery at `https://sadhvikchirunomula.github.io/live-bash-dance/`, with colour and bash/PowerShell toggles.
 
 ## Make your own animation
 

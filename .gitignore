@@ -2,6 +2,7 @@ site/
 node_modules/
 *.mp4
 *.gif
+!docs/*.gif
 *.webm
 *.mov
 .DS_Store
